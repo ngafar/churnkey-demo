@@ -1,6 +1,6 @@
 # ChurnKey Technical Support Assessment
 
-A Next.js project demoing ChurnKey's basic functionality. 
+A Next.js project demoing ChurnKey's basic functionality.
 
 ## Installation
 
@@ -23,3 +23,9 @@ npm run dev
 ```
 
 Then visit [http://localhost:3000](http://localhost:3000). Here you will see the Account Management page.
+
+## Onboarding Feedback
+
+Overall the [quick start guide](https://docs.churnkey.co/installing-churnkey) was a smooth experience. I was able to implement a cancellation flow without having to ever leave the page. The sections were well thought out, and the selection of language specific snippets in section two was especially appreciated.
+
+One suggestion I would make is, perhaps, a sub-section dedicated to troubleshooting. Though I did not need it, it would be nice to have instructions that provided ways for ensuring the step was successfully completed. For example, section one could have had instructions for ensuring the script was successfully loaded. 
