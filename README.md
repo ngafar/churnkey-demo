@@ -4,15 +4,24 @@ A Next.js project demoing ChurnKey's basic functionality.
 
 ## Installation
 
-Start by cloning this repo, and installing the necessary dependencies:
+Start by cloning this repo:
 
 ```bash
 git clone https://github.com/ngafar/churnkey-demo
 cd churnkey-demo
-npm i
 ```
 
-Note that this project was created with Node v20.15.1.
+If you are using nvm. Note, this step is optional. To ensure consistent behavior be sure to use the version of node listed in [,nvmrc](.nvmrc):
+
+```bash
+nvm install
+```
+
+Finally, install dependencies:
+
+```bash
+npm i
+```
 
 ## Usage
 
