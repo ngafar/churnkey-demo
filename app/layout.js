@@ -1,5 +1,3 @@
-import "./globals.css";
-
 export const metadata = {
   title: "ChurnKey Demo",
   description: "ChurnKey Demo for Technical Support Assessment",
