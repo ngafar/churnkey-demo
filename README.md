@@ -11,7 +11,7 @@ git clone https://github.com/ngafar/churnkey-demo
 cd churnkey-demo
 ```
 
-If you are using nvm. Note, this step is optional. To ensure consistent behavior be sure to use the version of node listed in [,nvmrc](.nvmrc):
+If you are using nvm. Note, this step is optional. To ensure consistent behavior be sure to use the version of node listed in [.nvmrc](.nvmrc):
 
 ```bash
 nvm install
