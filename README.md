@@ -33,6 +33,10 @@ npm run dev
 
 Then visit [http://localhost:3000](http://localhost:3000). Here you will see the Account Management page.
 
+## Demo
+
+See this [YouTube video](https://www.youtube.com/watch?v=1CFsX8looF0).
+
 ## Onboarding Feedback
 
 Overall the [quick start guide](https://docs.churnkey.co/installing-churnkey) was a smooth experience. I was able to implement a cancellation flow without having to ever leave the page. The sections were well thought out, and the selection of language specific snippets in section two was especially appreciated.
